@@ -35,7 +35,7 @@ Without passing through any plugin details or php requirement, the class library
 * Minimum Version of Php: 5.3.0
 * Recommended Version of Php: null
 
-To change these settings, simply apply like so:
+To change these settings, simply apply like so.
 
 _Example:_
 
